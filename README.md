@@ -41,8 +41,7 @@ v2ray-plugin_4.39.2-1_x86_64.ipk
 
 opkg install *.ipk
 
-
-
+---------------------------
 Than you could install the main packages:
 
 luci-app-ssr-plus_184-3_all.ipk
