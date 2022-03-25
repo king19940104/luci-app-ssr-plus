@@ -7,6 +7,7 @@ This repository is collected from the internet, for Lede/openwrt x86_x64 to used
 Used
 -----------------------------------------------------
 You should install thoes dependent packages frist:
+
 dns2socks_2.1-20200218_x86_64.ipk
 
 ipt2socks_1.0.2-1_x86_64.ipk
